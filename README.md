@@ -22,5 +22,5 @@ In order to get the full list (huge at the time of writing) of revolut stocks, t
  - metadata.py on the list (list_final.csv)
  - final list with Ticker and company name in list_final_with_names.csv
 
-Note: in list_final_with_names.csv some company name are set to "NOT SURE". This means that i could not find metadata for that Ticker and PROBABLY that is not really a tocket but just caos created while running regex.py.
+Note: in list_final_with_names.csv some company name are set to "Uncertain". This means that i could not find metadata for that Ticker and PROBABLY that is not really a tocket but just caos created while running regex.py.
 Keep that in mind.
